@@ -1,4 +1,4 @@
-LocalZero: Prinzipien und Annahmen
+Klimavision: Prinzipien und Annahmen
 ==================================
 | **Autor:innen: Manfred Schüssler, Hauke Schmülling**
 | **Stand: 22.02.22**
